@@ -49,7 +49,7 @@ Last modify.
   <img src="img/gif-wilson.gif">
 </p>
   
-  👉[Acesse aqui!](https://wilsonfa.github.io/)
+  👉[Click here!](https://wilsonfa.github.io/)
 
 
 
