@@ -38,7 +38,7 @@ Learning to style my project using CSS.
 Storing the curriculum on GitHub Pages.
 
 👉**Finalizing the project**<br>
-Ajustes finais.
+Last modify.
 
 👉**Closing webinar.**
 
@@ -46,7 +46,7 @@ Ajustes finais.
 
   👇**Final Project**
 <p align="center"> 
-  <img src="img/page.gif">
+  <img src="img/gif-wilson.gif">
 </p>
   
   👉[Acesse aqui!](https://wilsonfa.github.io/)
